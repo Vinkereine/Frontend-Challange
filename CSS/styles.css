@@ -1,0 +1,231 @@
+body {
+  max-width: 1440px;
+  width: 1440px;
+  font-size: 18px;
+  margin: 0;
+
+}
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+h1 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 900;}
+h2 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+}
+h3 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  color: hsl(208, 11%, 55%);
+}
+.logo {
+  margin-left:50px;
+}
+.freebutton {
+  margin-top: 30px;
+}
+.intro {
+  margin-top: 0;
+  background: url("file://D:/Downloads/WebDevelopement/huddle-landing-page-945317-master/huddle-landing-page-945317-master/images/bg-hero-desktop.svg") no-repeat center center fixed;
+  background-size: cover;
+  overflow: hidden;
+  margin-left: auto;
+  margin-right: auto;
+  height: 700px;
+  width: 1440px;
+  background-color: hsl(228, 45%, 44%);
+  padding: 30px 28px 0 30px;
+}
+.Build {
+  padding: 80px 100px 80px 50px;
+  width: 45%;
+  text-align: left;
+}
+.Build2{
+width: 75%;
+margin-bottom: 40px;
+}
+.Huddle {
+  color:#000000;
+
+}
+.butn {
+  -webkit-border-radius: 30;
+  -moz-border-radius: 30;
+  border-radius: 30px;
+  -webkit-box-shadow: 0 1px 4px #666666;
+  -moz-box-shadow: 0 1px 4px #666666;
+  box-shadow: 0 1px 4px #666666;
+  color: #000000;
+  font-size: 18px;
+  background: #ffffff;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  position: absolute;
+  left:1200px;
+  width: 150px;
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+.butn:hover {
+  background: #FF52BF;
+  text-decoration: none;
+}
+.butn2 {
+  -webkit-border-radius: 30;
+  -moz-border-radius: 30;
+  border-radius: 30px;
+  -webkit-box-shadow: 1px 1px 4px #000000;
+  -moz-box-shadow: 1px 1px 4px #000000;
+  box-shadow: 1px 1px 4px #000000;
+ font-weight: bold;
+  color: #ffffff;
+  font-size: 18px;
+  background: #FF52BF;
+  padding: 20px 60px 20px 60px;
+  text-decoration: none;
+  margin-left: 50px;
+}
+
+.butn2:hover {
+  background: #666666;
+  text-decoration: none;
+}
+.mockup {
+  float:right;
+  height: 500px;
+  width: 700px;
+  display: block;
+  margin-top:40px;
+}
+.Grow {
+  border: 2px outset rgba(28,110,164,0.08);
+  border-radius: 10px;
+  box-shadow: 2px 2px #888888;
+  margin: 50px 150px 50px 150px;
+  height: 380px;
+}
+.Grow2 {
+    padding: 100px 50px 50px 50px;
+    width: 50%;
+}
+.Generate {
+    padding:0 40px 0 20px;
+    width: 70%;
+}
+.together {
+  height: 300px;
+  weight: 450px;
+  float:right;
+    margin-top: 30px;
+}
+.Flowing {
+  border: 2px outset rgba(28,110,164,0.08);
+  border-radius: 10px;
+  box-shadow: 2px 2px #888888;
+  margin: 50px 150px 50px 150px;
+  height: 380px;
+  text-align: right;
+}
+.Flowing2 {
+    padding: 100px 50px 50px 50px;
+    width: 50%;
+    text-align: left;
+    margin-left: 500px;
+
+}
+.Flow {
+  padding-right: 130px;
+}
+.Youw {
+    padding:0 20px 0 0;
+    width: 80%;
+    margin-right: 160px;
+}
+.conver {
+  height: 300px;
+  weight: 450px;
+  float:left;
+  margin-top: 30px;
+}
+.Users {
+  border: 2px outset rgba(28,110,164,0.08);
+  border-radius: 10px;
+  box-shadow: 2px 2px #888888;
+  margin: 50px 150px 50px 150px;
+  height: 380px;
+}
+.Users2 {
+    padding: 100px 50px 50px 50px;
+    width: 50%;
+
+}
+.Itt {
+    padding:0 0 0 0;
+    width: 85%;
+}
+.your {
+  height: 300px;
+  weight: 450px;
+  float:right;
+  margin-top: 30px;}
+
+  .Blue {
+    background-color: hsl(192, 100%, 9%);
+    text-align: center;
+      padding: 150px 50px 20px 50px;
+    color: hsl(193, 100%, 96%);
+    width: 100%;
+    margin: 0 auto 0 auto;
+  }
+.logo2 {
+  position: relative;
+  right: 830px;
+  bottom: 100px;
+  color: #888888;
+}
+.icons {
+  width: 20px;
+  padding: 15px;
+}
+table {
+
+padding-top: 0;
+  padding-bottom: 0;
+}
+.t2 {
+  padding-left: 100px;
+  line-height: 2.5;
+}
+.b1 {
+  float: left;
+  padding-right: 50px;
+
+}
+.b2 {
+  float: left;
+}
+.b3 {
+  float: left;
+  padding-left: 100px;
+
+}
+a:hover{
+  color: hsl(208, 11%, 55%);
+}
+a{
+  text-decoration: none;
+  color:hsl(193, 100%, 96%);
+}
+.copyright {
+  text-align: center;
+  float: right;
+}
+.tt {
+  width: 70%;
+  height: 200px;
+  margin: 0 auto 0 auto;
+}
